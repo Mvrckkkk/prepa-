@@ -1,3 +1,2 @@
-# barcelonabesteam
-el barca el mejor equipo
-battle royale
+# barcelonabesteam</br>
+<br>el barca el mejor equipo
